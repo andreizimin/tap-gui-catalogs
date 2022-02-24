@@ -13,7 +13,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-app-microservice-1
+  name: demo-app-ms-1
   description: Demo Application's Microservice-1
   tags:
     - microservice
@@ -33,7 +33,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-app-microservice-2
+  name: demo-app-ms-2
   description: Demo Application's Microservice-2
   tags:
     - microservice
