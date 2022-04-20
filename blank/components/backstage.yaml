@@ -8,6 +8,9 @@ metadata:
   annotations:
     'backstage.io/kubernetes-label-selector': 'app=backstage'
     'backstage.io/techdocs-ref': dir:.
+  links:
+    - url: http://tanzu-java-web-app.default.jklassen-pstar-dev.calatrava.vmware.com
+      title: Website Address
 spec:
   type: service
   lifecycle: alpha
